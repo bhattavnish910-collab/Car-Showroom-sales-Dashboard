@@ -1,3 +1,4 @@
+<img width="1917" height="973" alt="Screenshot 2026-09-28 205938" src="https://github.com/user-attachments/assets/51aa0fa5-9d86-4271-8c0f-bb3faf05b97e" />
 # Car-Showroom-sales-Dashboard
 Car showroom Sales analysis dashboard using Power BI
 
@@ -48,5 +49,9 @@ Count of Discount Percent
 Count of Discount Amount.
 
 <img width="1186" height="667" alt="Screenshot 2026-09-28 205423" src="https://github.com/user-attachments/assets/d51fca62-a0f8-4806-8508-d9165f09d571" />
+
+
+<img width="1917" height="973" alt="Screenshot 2026-09-28 205938" src="https://github.com/user-attachments/assets/51aa0fa5-9d86-4271-8c0f-bb3faf05b97e" />
+
 https://github.com/user-attachments/assets/a82fd689-8802-44ee-b3f7-615b02cf6410
 
