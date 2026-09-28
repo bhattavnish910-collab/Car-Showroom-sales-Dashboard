@@ -4,6 +4,7 @@ Car showroom Sales analysis dashboard using Power BI
 This is my first Power BI Dashboard Project. The Car Showroom Dashboard Project provides a high-level performance analysis across sales revenue, customer demographics, geographic distribution and financing methods to track overall dealership revenue and customer purchasing behavior.
 
 KEY HIGHLIGHTS.
+<br>
 Core Revenue Metrics= Total net selling price reached 81.68bn out of 85bn total ex-showroom value, with an average net sale of 1.05M per transaction.
 <br>
 Brand Leadership= Maruti Suzuki generates the highest sales volume, followed by Mahindra, Toyota and Tata.
