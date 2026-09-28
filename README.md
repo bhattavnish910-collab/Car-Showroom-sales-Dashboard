@@ -47,7 +47,7 @@ Count of Discount Percent
 <br>
 Count of Discount Amount.
 
-<img width="1186" height="667" alt="Screenshot 2026-09-28 205423" src="https://github.com/user-attachments/assets/d51fca62-a0f8-4806-8508-d9165f09d571" />
+<img width="1913" height="945" alt="Screenshot 2026-09-28 210227" src="https://github.com/user-attachments/assets/d03c48be-b78f-48e6-8109-603e5bef46e5" />
 
 
 <img width="1917" height="973" alt="Screenshot 2026-09-28 205938" src="https://github.com/user-attachments/assets/51aa0fa5-9d86-4271-8c0f-bb3faf05b97e" />
