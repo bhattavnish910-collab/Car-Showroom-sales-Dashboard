@@ -1,4 +1,3 @@
-<img width="1917" height="973" alt="Screenshot 2026-09-28 205938" src="https://github.com/user-attachments/assets/51aa0fa5-9d86-4271-8c0f-bb3faf05b97e" />
 # Car-Showroom-sales-Dashboard
 Car showroom Sales analysis dashboard using Power BI
 
