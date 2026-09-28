@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/a82fd689-8802-44ee-b3f7-615b02cf6410
-
 # Car-Showroom-sales-Dashboard
 Car showroom Sales analysis dashboard using Power BI
 
